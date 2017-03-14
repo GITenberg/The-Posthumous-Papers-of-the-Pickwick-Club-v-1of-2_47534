@@ -1,10 +1,13 @@
 _repo: The-Posthumous-Papers-of-the-Pickwick-Club-v-1of-2_47534
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Aldin, Cecil Charles Windsor
     gutenberg_agent_id: '41602'
     url: http://www.gutenberg.org/2009/agents/41602
+covers:
+- cover_type: archival
+  image_path: 47534-h/images/cover.jpg
 creator:
   author:
     agent_name: Dickens, Charles
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47534#The-Posthumous-Papers-of-the-Pickwick-Club-v-1of-2
 gutenberg_issued: '2014-12-04'
 gutenberg_type: Text
 identifiers:
